@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MultiFaceRec.BD">
+    <Position X="11.25" Y="0.75" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAABAAAACAAAACAAAoAAAAECAAAIAAIAA=</HashCode>
+      <FileName>BD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiFaceRec.filtredCam">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>+AAAgAABMCQQABMABASAAQMGUAgAAoArAAAIIgQAEBQ=</HashCode>
+      <FileName>filtredCam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiFaceRec.FrmPrincipal">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIAgCIAqCAAUBAABADQAAACAAQeAAAAEHWABCAgIIQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiFaceRec.Program">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emgu.CV.EigenObjectRecognizer">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAHACgEABAACAAAAgAABIYABRAAQAAAAAAAAA=</HashCode>
+      <FileName>EigenObjectRecognizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

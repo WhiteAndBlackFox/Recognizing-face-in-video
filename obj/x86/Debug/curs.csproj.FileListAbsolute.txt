@@ -1,0 +1,11 @@
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\bin\Debug\MultiFaceRec.exe
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\bin\Debug\MultiFaceRec.pdb
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\curs.csprojResolveAssemblyReference.cache
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\curs.csproj.GenerateResource.Cache
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\curs.csproj.CoreCompileInputs.cache
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\MultiFaceRec.exe
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\MultiFaceRec.pdb
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\MultiFaceRec.filtredCam.resources
+D:\учеба\[3 маг.] АО Видеопоследовательностей - Зотин\curs\curs\obj\x86\Debug\MultiFaceRec.BD.resources
